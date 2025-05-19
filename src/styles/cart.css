@@ -1,0 +1,7 @@
+.cart {
+    display: flex;
+}
+
+.cart_right {
+    margin-left: 60%;
+}
